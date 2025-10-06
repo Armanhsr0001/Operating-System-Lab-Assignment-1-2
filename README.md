@@ -15,11 +15,11 @@ The project demonstrates core operating system concepts by simulating process ma
 
 1.  *Clone the repository:*
     bash
-    git clone <your-github-repo-link>
+    git clone <https://github.com/Armanhsr0001/Operating-System-Lab-Assignment-1-2/tree/main>
     cd <repository-folder>
     
 
-2.  *Make the script executable (optional but good practice):*
+2.  *Make the script executable :*
     bash
     chmod +x process_management.py
     
